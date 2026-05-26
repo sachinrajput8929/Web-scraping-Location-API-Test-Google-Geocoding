@@ -1,0 +1,450 @@
+[2026-05-23 07:23:35] Scraping failed for college ID 24: CollegeScraper::curlRequest(): Argument #3 ($error) must be of type string, null given, called in C:\xampp\htdocs\web-scraper\scraper\CollegeScraper.php on line 177
+[2026-05-23 07:23:54] Scraping completed for college ID 24
+[2026-05-23 07:29:35] Pending scraper failed for college ID 1: Official website not found.
+[2026-05-23 07:29:37] Pending scraper failed for college ID 2: Official website not found.
+[2026-05-23 07:29:39] Pending scraper failed for college ID 4: Official website not found.
+[2026-05-23 07:29:40] Pending scraper failed for college ID 5: Official website not found.
+[2026-05-23 07:29:42] Pending scraper failed for college ID 7: Official website not found.
+[2026-05-23 07:29:44] Pending scraper failed for college ID 8: Official website not found.
+[2026-05-23 07:29:45] Pending scraper failed for college ID 9: Official website not found.
+[2026-05-23 07:29:47] Pending scraper failed for college ID 10: Official website not found.
+[2026-05-23 07:29:49] Pending scraper failed for college ID 11: Official website not found.
+[2026-05-23 07:29:51] Pending scraper failed for college ID 12: Official website not found.
+[2026-05-23 07:30:58] Pending scraper failed for college ID 1: Official website not found.
+[2026-05-23 07:31:00] Pending scraper failed for college ID 2: Official website not found.
+[2026-05-23 07:31:02] Pending scraper failed for college ID 4: Official website not found.
+[2026-05-23 07:31:03] Pending scraper failed for college ID 5: Official website not found.
+[2026-05-23 07:31:05] Pending scraper failed for college ID 7: Official website not found.
+[2026-05-23 07:31:07] Pending scraper failed for college ID 8: Official website not found.
+[2026-05-23 07:31:09] Pending scraper failed for college ID 9: Official website not found.
+[2026-05-23 07:31:11] Pending scraper failed for college ID 10: Official website not found.
+[2026-05-23 07:31:12] Pending scraper failed for college ID 11: Official website not found.
+[2026-05-23 07:31:15] Pending scraper failed for college ID 12: Official website not found.
+[2026-05-23 07:33:57] Pending scraper failed for college ID 1: Official website not found.
+[2026-05-23 07:35:00] Pending scraper failed for college ID 1: Official website not found.
+[2026-05-23 07:35:02] Pending scraper failed for college ID 2: Official website not found.
+[2026-05-23 08:14:27] Python scraper college 1: Scraping failed: Official website not found
+[2026-05-23 08:19:07] Python scraper: Data Saved
+[2026-05-23 08:20:00] Python scraper: Data Saved
+[2026-05-23 08:22:25] Python scraper: Data Saved
+[2026-05-23 08:29:23] Python scraper: Data Saved
+[2026-05-23 08:30:59] Python scraper: Data Saved
+[2026-05-23 08:34:16] Python scraper: Scraping failed: (1213, 'Deadlock found when trying to get lock; try restarting transaction')
+[2026-05-23 08:44:01] Python scraper: Scraping failed: (1213, 'Deadlock found when trying to get lock; try restarting transaction')
+[2026-05-23 08:44:28] Python scraper college 1: Data Saved
+[2026-05-23 08:44:28] Python scraper: Data Saved
+[2026-05-23 08:50:27] Python scraper: Data Saved
+[2026-05-23 08:51:05] Python scraper: Data Saved
+[2026-05-23 08:59:41] Python scraper: Data Saved
+[2026-05-23 09:03:18] Python scraper: Data Saved
+[2026-05-23 09:05:52] Python scraper: Data Saved
+[2026-05-23 09:12:16] Python scraper: Scraping failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+[2026-05-23 09:12:55] Python scraper: Scraping failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+[2026-05-23 09:13:15] Python scraper college 3: Scraping failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+[2026-05-23 09:13:50] Python scraper college 3: Scraping failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+[2026-05-23 09:15:02] Python scraper college 3: Data Saved
+[2026-05-23 09:15:03] Python scraper: Data Saved
+[2026-05-23 09:15:13] Python scraper college 4: Data Saved
+[2026-05-23 09:15:13] Python scraper college 4: Data Saved
+[2026-05-23 09:18:48] Python scraper: Data Saved
+[2026-05-23 09:24:53] Python scraper: Data Saved
+[2026-05-23 09:24:53] Python scraper: Data Saved
+[2026-05-23 09:32:41] Python scraper: Scraping failed: (1213, 'Deadlock found when trying to get lock; try restarting transaction')
+[2026-05-23 09:33:02] Python scraper college 1: Data Saved
+[2026-05-23 09:33:55] Python scraper: Data Saved
+[2026-05-23 09:40:53] Python scraper college 2: Data Saved
+[2026-05-23 09:48:23] Python scraper college 1: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.amity.edu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 09:48:23] Python scraper college 1:   warnings.warn(
+[2026-05-23 09:48:23] Python scraper college 1: Data Saved
+[2026-05-23 09:51:08] Python scraper college 2: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'fasal.haryana.gov.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 09:51:08] Python scraper college 2:   warnings.warn(
+[2026-05-23 09:51:08] Python scraper college 2: Scraping failed: Official college website not found after validation. Search results did not match college name, city/state, and education-page checks.
+[2026-05-23 09:51:08] Python scraper college 2: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'fasal.haryana.gov.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 09:51:08] Python scraper college 2:   warnings.warn(
+[2026-05-23 09:51:08] Python scraper college 2: Scraping failed: Official college website not found after validation. Search results did not match college name, city/state, and education-page checks.
+[2026-05-23 09:51:26] Python scraper college 2: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'fasal.haryana.gov.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 09:51:26] Python scraper college 2:   warnings.warn(
+[2026-05-23 09:51:26] Python scraper college 2: Scraping failed: Official college website not found after validation. Search results did not match college name, city/state, and education-page checks.
+[2026-05-23 09:51:41] Python scraper: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'fasal.haryana.gov.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 09:51:41] Python scraper:   warnings.warn(
+[2026-05-23 09:51:41] Python scraper: Scraping failed: Official college website not found after validation. Search results did not match college name, city/state, and education-page checks.
+[2026-05-23 10:02:29] Python scraper college 1: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'fasal.haryana.gov.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 10:02:29] Python scraper college 1:   warnings.warn(
+[2026-05-23 10:02:29] Python scraper college 1: Scraping failed: Official college website not found after validation. Search results did not match college name, city/state, and education-page checks.
+[2026-05-23 10:02:46] Python scraper: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'fasal.haryana.gov.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 10:02:46] Python scraper:   warnings.warn(
+[2026-05-23 10:02:46] Python scraper: Scraping failed: Official college website not found after validation. Search results did not match college name, city/state, and education-page checks.
+[2026-05-23 10:04:07] Python scraper college 1: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'fasal.haryana.gov.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 10:04:07] Python scraper college 1:   warnings.warn(
+[2026-05-23 10:04:07] Python scraper college 1: Scraping failed: Official college website not found after validation. Search results did not match college name, city/state, and education-page checks.
+[2026-05-23 10:04:09] Python scraper college 1: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'fasal.haryana.gov.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 10:04:09] Python scraper college 1:   warnings.warn(
+[2026-05-23 10:04:09] Python scraper college 1: Scraping failed: Official college website not found after validation. Search results did not match college name, city/state, and education-page checks.
+[2026-05-23 10:04:20] Python scraper college 2: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'fasal.haryana.gov.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 10:04:20] Python scraper college 2:   warnings.warn(
+[2026-05-23 10:04:20] Python scraper college 2: Scraping failed: Official college website not found after validation. Search results did not match college name, city/state, and education-page checks.
+[2026-05-23 10:04:20] Python scraper college 2: Scraping failed: Official college website not found after validation. Search results did not match college name, city/state, and education-page checks.
+[2026-05-23 10:04:24] Python scraper college 2: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'fasal.haryana.gov.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 10:04:24] Python scraper college 2:   warnings.warn(
+[2026-05-23 10:04:24] Python scraper college 2: Scraping failed: Official college website not found after validation. Search results did not match college name, city/state, and education-page checks.
+[2026-05-23 10:04:24] Python scraper college 2: Scraping failed: Official college website not found after validation. Search results did not match college name, city/state, and education-page checks.
+[2026-05-23 10:04:58] Python scraper: Scraping failed: Official college website not found after validation. Search results did not match college name, city/state, and education-page checks.
+[2026-05-23 10:13:32] Python scraper college 1: Scraping failed: Scraped website rejected: result appears to be an IAS/coaching/training institute, not the requested college.
+[2026-05-23 10:13:32] Python scraper college 1: Scraping failed: Scraped website rejected: result appears to be an IAS/coaching/training institute, not the requested college.
+[2026-05-23 10:17:14] Python scraper college 1: Scraping failed: Scraped website rejected: result appears to be an IAS/coaching/training institute, not the requested college.
+[2026-05-23 10:41:43] Python scraper college 1: Scraping failed: Scraped website rejected: result appears to be an IAS/coaching/training institute, not the requested college.
+[2026-05-23 10:46:35] Python scraper college 1: Scraping failed: Scraped website rejected: result appears to be an IAS/coaching/training institute, not the requested college.
+[2026-05-23 10:46:35] Python scraper: Scraping failed: Scraped website rejected: result appears to be an IAS/coaching/training institute, not the requested college.
+[2026-05-23 10:46:35] Python scraper college 1: Scraping failed: Scraped website rejected: result appears to be an IAS/coaching/training institute, not the requested college.
+[2026-05-23 10:47:25] Python scraper: Scraping failed: Scraped website rejected: result appears to be IAS/coaching content (ias), not the requested college.
+[2026-05-23 10:53:41] Python scraper college 1: Scraping failed: Scraped website rejected: result appears to be IAS/coaching content (ias), not the requested college.
+[2026-05-23 10:54:12] Python scraper college 2: Scraping failed: Scraped website rejected: result appears to be IAS/coaching content (ias), not the requested college.
+[2026-05-23 10:54:12] Python scraper college 2: Scraping failed: Scraped website rejected: result appears to be IAS/coaching content (ias), not the requested college.
+[2026-05-23 10:54:53] Python scraper: Scraping failed: Scraped website rejected: result appears to be IAS/coaching content (ias), not the requested college.
+[2026-05-23 10:55:23] Python scraper: Scraping failed: Scraped website rejected: result appears to be IAS/coaching content (ias), not the requested college.
+[2026-05-23 10:55:45] Python scraper: Scraping failed: Scraped website rejected: result appears to be IAS/coaching content (ias), not the requested college.
+[2026-05-23 10:57:34] Python scraper: Scraping failed: Scraped website rejected: result appears to be IAS/coaching content (ias), not the requested college.
+[2026-05-23 10:58:48] Python scraper: Scraping failed: Official college website not found after validation. Search results did not match college name, city/state, and education-page checks.
+[2026-05-23 11:02:15] Python scraper college 1: Scraping failed: Scraped website rejected: result appears to be IAS/coaching content (ias), not the requested college.
+[2026-05-23 11:02:35] Python scraper college 2: Scraping failed: Scraped website rejected: result appears to be IAS/coaching content (ias), not the requested college.
+[2026-05-23 11:02:35] Python scraper college 2: Scraping failed: Scraped website rejected: result appears to be IAS/coaching content (ias), not the requested college.
+[2026-05-23 11:13:33] Python scraper college 1: Scraping failed: Scraped website rejected: result appears to be IAS/coaching content (ias), not the requested college.
+[2026-05-23 11:13:51] Python scraper college 2: Scraping failed: Scraped website rejected: result appears to be IAS/coaching content (ias), not the requested college.
+[2026-05-23 11:13:51] Python scraper college 2: Scraping failed: Scraped website rejected: result appears to be IAS/coaching content (ias), not the requested college.
+[2026-05-23 11:14:57] Python scraper college 1: Scraping failed: Scraped website rejected: result appears to be IAS/coaching content (ias), not the requested college.
+[2026-05-23 11:15:00] Python scraper college 1: Scraping failed: Scraped website rejected: result appears to be IAS/coaching content (ias), not the requested college.
+[2026-05-23 11:15:00] Python scraper college 1: Scraping failed: Scraped website rejected: result appears to be IAS/coaching content (ias), not the requested college.
+[2026-05-23 11:15:17] Python scraper college 2: Scraping failed: Scraped website rejected: result appears to be IAS/coaching content (ias), not the requested college.
+[2026-05-23 11:15:17] Python scraper college 2: Scraping failed: Scraped website rejected: result appears to be IAS/coaching content (ias), not the requested college.
+[2026-05-23 11:15:20] Python scraper college 2: Scraping failed: Scraped website rejected: result appears to be IAS/coaching content (ias), not the requested college.
+[2026-05-23 11:15:20] Python scraper college 2: Scraping failed: Scraped website rejected: result appears to be IAS/coaching content (ias), not the requested college.
+[2026-05-23 11:15:20] Python scraper college 2: Scraping failed: Scraped website rejected: result appears to be IAS/coaching content (ias), not the requested college.
+[2026-05-23 11:15:20] Python scraper college 2: Scraping failed: Scraped website rejected: result appears to be IAS/coaching content (ias), not the requested college.
+[2026-05-23 11:21:22] Python scraper college 1: Scraping failed: Scraped website rejected: result appears to be IAS/coaching content (ias), not the requested college.
+[2026-05-23 11:22:51] Python scraper college 1: Scraping failed: Scraped website rejected: result appears to be IAS/coaching content (ias), not the requested college.
+[2026-05-23 11:31:54] Python scraper college 1: Scraping failed: Scraped website rejected: result appears to be IAS/coaching content (ias), not the requested college.
+[2026-05-23 11:34:00] Python scraper: Scraping failed: Scraped website rejected: result appears to be IAS/coaching content (ias), not the requested college.
+[2026-05-23 11:36:08] Python scraper: Scraping failed: Scraped website rejected: result appears to be IAS/coaching content (ias), not the requested college.
+[2026-05-23 11:37:40] Python scraper: Scraping failed: Scraped website rejected: result appears to be IAS/coaching content (ias), not the requested college.
+[2026-05-23 11:37:43] Python scraper: Scraping failed: Scraped website rejected: result appears to be IAS/coaching content (ias), not the requested college.
+[2026-05-23 11:58:17] Python scraper college 1: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.srm.edu.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 11:58:17] Python scraper college 1:   warnings.warn(
+[2026-05-23 11:58:17] Python scraper college 1: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.srmist.edu.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 11:58:17] Python scraper college 1:   warnings.warn(
+[2026-05-23 11:58:17] Python scraper college 1: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.srm.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 11:58:17] Python scraper college 1:   warnings.warn(
+[2026-05-23 11:58:17] Python scraper college 1: Scraping failed: Official college website not found after validation. Search results did not match college name, city/state, and education-page checks.
+[2026-05-23 11:58:17] Python scraper college 1: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.srm.edu.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 11:58:17] Python scraper college 1: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.srm.edu.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 11:58:17] Python scraper college 1:   warnings.warn(
+[2026-05-23 11:58:17] Python scraper college 1:   warnings.warn(
+[2026-05-23 11:58:17] Python scraper college 1: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.srmist.edu.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 11:58:17] Python scraper college 1: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.srmist.edu.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 11:58:17] Python scraper college 1:   warnings.warn(
+[2026-05-23 11:58:17] Python scraper college 1:   warnings.warn(
+[2026-05-23 11:58:17] Python scraper college 1: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.srm.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 11:58:17] Python scraper college 1: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.srm.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 11:58:17] Python scraper college 1:   warnings.warn(
+[2026-05-23 11:58:17] Python scraper college 1:   warnings.warn(
+[2026-05-23 11:58:17] Python scraper college 1: Scraping failed: Official college website not found after validation. Search results did not match college name, city/state, and education-page checks.
+[2026-05-23 11:58:17] Python scraper college 1: Scraping failed: Official college website not found after validation. Search results did not match college name, city/state, and education-page checks.
+[2026-05-23 11:58:18] Python scraper college 1: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.srm.edu.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 11:58:18] Python scraper college 1:   warnings.warn(
+[2026-05-23 11:58:18] Python scraper college 1: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.srmist.edu.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 11:58:18] Python scraper college 1:   warnings.warn(
+[2026-05-23 11:58:18] Python scraper college 1: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.srm.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 11:58:18] Python scraper college 1:   warnings.warn(
+[2026-05-23 11:58:18] Python scraper college 1: Scraping failed: Official college website not found after validation. Search results did not match college name, city/state, and education-page checks.
+[2026-05-23 11:58:18] Python scraper college 1: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.srm.edu.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 11:58:18] Python scraper college 1: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.srm.edu.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 11:58:18] Python scraper college 1:   warnings.warn(
+[2026-05-23 11:58:18] Python scraper college 1:   warnings.warn(
+[2026-05-23 11:58:18] Python scraper college 1: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.srmist.edu.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 11:58:18] Python scraper college 1: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.srmist.edu.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 11:58:18] Python scraper college 1:   warnings.warn(
+[2026-05-23 11:58:18] Python scraper college 1:   warnings.warn(
+[2026-05-23 11:58:18] Python scraper college 1: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.srm.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 11:58:18] Python scraper college 1: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.srm.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 11:58:18] Python scraper college 1:   warnings.warn(
+[2026-05-23 11:58:18] Python scraper college 1:   warnings.warn(
+[2026-05-23 11:58:18] Python scraper college 1: Scraping failed: Official college website not found after validation. Search results did not match college name, city/state, and education-page checks.
+[2026-05-23 11:58:18] Python scraper college 1: Scraping failed: Official college website not found after validation. Search results did not match college name, city/state, and education-page checks.
+[2026-05-23 11:58:18] Python scraper college 1: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.srm.edu.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 11:58:18] Python scraper college 1: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.srm.edu.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 11:58:18] Python scraper college 1:   warnings.warn(
+[2026-05-23 11:58:18] Python scraper college 1:   warnings.warn(
+[2026-05-23 11:58:18] Python scraper college 1: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.srmist.edu.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 11:58:18] Python scraper college 1: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.srmist.edu.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 11:58:18] Python scraper college 1:   warnings.warn(
+[2026-05-23 11:58:18] Python scraper college 1:   warnings.warn(
+[2026-05-23 11:58:18] Python scraper college 1: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.srm.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 11:58:18] Python scraper college 1: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.srm.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 11:58:18] Python scraper college 1:   warnings.warn(
+[2026-05-23 11:58:18] Python scraper college 1:   warnings.warn(
+[2026-05-23 11:58:18] Python scraper college 1: Scraping failed: Official college website not found after validation. Search results did not match college name, city/state, and education-page checks.
+[2026-05-23 11:58:18] Python scraper college 1: Scraping failed: Official college website not found after validation. Search results did not match college name, city/state, and education-page checks.
+[2026-05-23 11:58:21] Python scraper college 1: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.srm.edu.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 11:58:21] Python scraper college 1:   warnings.warn(
+[2026-05-23 11:58:21] Python scraper college 1: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.srmist.edu.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 11:58:21] Python scraper college 1:   warnings.warn(
+[2026-05-23 11:58:21] Python scraper college 1: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.srm.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 11:58:21] Python scraper college 1:   warnings.warn(
+[2026-05-23 11:58:21] Python scraper college 1: Scraping failed: Official college website not found after validation. Search results did not match college name, city/state, and education-page checks.
+[2026-05-23 12:00:59] Python scraper: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.srm.edu.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 12:00:59] Python scraper:   warnings.warn(
+[2026-05-23 12:00:59] Python scraper: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.srmist.edu.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 12:00:59] Python scraper:   warnings.warn(
+[2026-05-23 12:00:59] Python scraper: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.srm.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 12:00:59] Python scraper:   warnings.warn(
+[2026-05-23 12:00:59] Python scraper: Scraping failed: Official college website not found after validation. Search results did not match college name, city/state, and education-page checks.
+[2026-05-23 12:05:45] Python scraper: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.srm.edu.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 12:05:45] Python scraper:   warnings.warn(
+[2026-05-23 12:05:45] Python scraper: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.srmist.edu.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 12:05:45] Python scraper:   warnings.warn(
+[2026-05-23 12:05:45] Python scraper: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.srm.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-23 12:05:45] Python scraper:   warnings.warn(
+[2026-05-23 12:05:45] Python scraper: Scraping failed: name 'conflict_hits' is not defined
+[2026-05-23 12:09:24] Python scraper college 2: Data Saved
+[2026-05-23 12:42:33] Python scraper college 2: Scraping failed: Official college website not found after validation. Search results did not match college name, city/state, and education-page checks.
+[2026-05-23 12:44:26] Python scraper college 3: Scraping failed: Official college website not found after validation. Search results did not match college name, city/state, and education-page checks.
+[2026-05-23 12:44:26] Python scraper college 3: Scraping failed: (1213, 'Deadlock found when trying to get lock; try restarting transaction')
+[2026-05-23 12:44:26] Python scraper: Scraping failed: (1213, 'Deadlock found when trying to get lock; try restarting transaction')
+[2026-05-23 12:46:30] Python scraper: Scraping failed: (1213, 'Deadlock found when trying to get lock; try restarting transaction')
+[2026-05-23 12:48:24] Python scraper: Data Saved
+[2026-05-23 12:48:24] Python scraper: Scraping failed: Official college website not found after validation. Search results did not match college name, city/state, and education-page checks.
+[2026-05-23 12:48:24] Python scraper: Data Saved
+[2026-05-23 12:48:24] Python scraper: Data Saved
+[2026-05-23 13:28:48] Python scraper: Scraping failed: Official college website not found after validation. Search results did not match college name, city/state, and education-page checks.
+[2026-05-23 13:53:32] Python scraper: Scraping failed: Official college website not found after validation. Search results did not match college name, city/state, and education-page checks.
+[2026-05-25 06:39:43] Queued scraper college 1: "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 1
+[2026-05-25 06:43:21] Queued scraper college 2: "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 2
+[2026-05-25 06:44:17] Python scraper college 2: Scraper already running
+[2026-05-25 06:45:01] Python scraper: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.jamia-millia-islamia.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-25 06:45:01] Python scraper:   warnings.warn(
+[2026-05-25 06:45:01] Python scraper: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'admission.jmi.ac.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-25 06:45:01] Python scraper:   warnings.warn(
+[2026-05-25 06:45:01] Python scraper: Scraping failed: (1213, 'Deadlock found when trying to get lock; try restarting transaction')
+[2026-05-25 06:45:51] Python scraper college 2: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.jamia-millia-islamia.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-25 06:45:51] Python scraper college 2:   warnings.warn(
+[2026-05-25 06:45:51] Python scraper college 2: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'admission.jmi.ac.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-25 06:45:51] Python scraper college 2:   warnings.warn(
+[2026-05-25 06:45:51] Python scraper college 2: Data Saved
+[2026-05-25 06:47:31] Queued scraper college 3: "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 3
+[2026-05-25 06:49:22] Python scraper college 3: Scraping failed: Official college website not found after validation. Search results did not match college name, city/state, and education-page checks.
+[2026-05-25 07:12:51] Queued scraper college 4: "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 4
+[2026-05-25 07:48:44] Queued scraper college 1: "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 1
+[2026-05-25 08:01:36] Queued scraper college 2: "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 2
+[2026-05-25 08:04:24] Python scraper college 2: Data Saved
+[2026-05-25 08:08:28] Queued scraper college 3: "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 3
+[2026-05-25 08:10:17] Python scraper: Data Saved
+[2026-05-25 09:20:08] Queued scraper college 1 (Jamia Millia Islamia): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 1 "Jamia Millia Islamia"
+[2026-05-25 09:21:30] Queued scraper college 1 (Jamia Millia Islamia): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 1 "Jamia Millia Islamia"
+[2026-05-25 09:21:30] Queued scraper college 1 (Jamia Millia Islamia): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 1 "Jamia Millia Islamia"
+[2026-05-25 09:22:52] Python scraper college 1: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'admission.jmi.ac.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-25 09:22:52] Python scraper college 1: Scraper already running
+[2026-05-25 09:22:52] Python scraper college 1:   warnings.warn(
+[2026-05-25 09:22:52] Python scraper college 1: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'jamia-millia-islamia.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-25 09:22:52] Python scraper college 1:   warnings.warn(
+[2026-05-25 09:22:52] Python scraper college 1: C:\xampp\htdocs\web-scraper\vendor\python\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'jamia-millia-islamia.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-25 09:22:52] Python scraper college 1:   warnings.warn(
+[2026-05-25 09:22:52] Python scraper college 1: Data Saved
+[2026-05-25 09:31:27] Queued scraper college 2 (A. S. Kharb Memorial College of Education,Jhajjar, Haryana): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 2 "A. S. Kharb Memorial College of Education,Jhajjar, Haryana"
+[2026-05-25 09:33:27] Queued scraper college 2 (A. S. Kharb Memorial College of Education,Jhajjar, Haryana): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 2 "A. S. Kharb Memorial College of Education,Jhajjar, Haryana"
+[2026-05-25 09:36:17] Queued scraper college 2 (A. S. Kharb Memorial College of Education,Jhajjar, Haryana): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 2 "A. S. Kharb Memorial College of Education,Jhajjar, Haryana"
+[2026-05-25 09:36:17] Python scraper college 2: Scraping failed: College data source not found. Search results did not safely match this college name.
+[2026-05-25 09:38:34] Python scraper college 2: Scraping failed: College data source not found. Search results did not safely match this college name.
+[2026-05-25 09:39:25] Queued scraper college 2 (A. S. Kharb Memorial College of Education,Jhajjar, Haryana): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 2 "A. S. Kharb Memorial College of Education,Jhajjar, Haryana"
+[2026-05-25 09:41:43] Python scraper college 2: Scraping failed: College data source not found. Search results did not safely match this college name.
+[2026-05-25 09:41:43] Queued scraper college 2 (A. S. Kharb Memorial College of Education,Jhajjar, Haryana): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 2 "A. S. Kharb Memorial College of Education,Jhajjar, Haryana"
+[2026-05-25 09:41:43] Queued scraper college 2 (A. S. Kharb Memorial College of Education,Jhajjar, Haryana): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 2 "A. S. Kharb Memorial College of Education,Jhajjar, Haryana"
+[2026-05-25 09:41:43] Python scraper college 2: Scraper already running
+[2026-05-25 09:53:23] Queued scraper college 3 (A. S. Kharb Memorial College of Education,Jhajjar, Haryana): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 3 "A. S. Kharb Memorial College of Education,Jhajjar, Haryana"
+[2026-05-25 09:58:19] Queued scraper college 2 (A. S. Kharb Memorial College of Education,Jhajjar, Haryana): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 2 "A. S. Kharb Memorial College of Education,Jhajjar, Haryana"
+[2026-05-25 09:58:19] Queued scraper college 2 (A. S. Kharb Memorial College of Education,Jhajjar, Haryana): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 2 "A. S. Kharb Memorial College of Education,Jhajjar, Haryana"
+[2026-05-25 09:58:19] Queued scraper college 2 (A. S. Kharb Memorial College of Education,Jhajjar, Haryana): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 2 "A. S. Kharb Memorial College of Education,Jhajjar, Haryana"
+[2026-05-25 09:58:19] Queued scraper college 2 (A. S. Kharb Memorial College of Education,Jhajjar, Haryana): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 2 "A. S. Kharb Memorial College of Education,Jhajjar, Haryana"
+[2026-05-25 09:58:19] Queued scraper college 2 (A. S. Kharb Memorial College of Education,Jhajjar, Haryana): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 2 "A. S. Kharb Memorial College of Education,Jhajjar, Haryana"
+[2026-05-25 09:58:19] Python scraper college 2: Scraper already running
+[2026-05-25 09:58:19] Queued scraper college 3 (A. S. Kharb Memorial College of Education,Jhajjar, Haryana): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 3 "A. S. Kharb Memorial College of Education,Jhajjar, Haryana"
+[2026-05-25 09:58:19] Python scraper college 2: Scraper already running
+[2026-05-25 09:58:19] Python scraper college 2: Scraper already running
+[2026-05-25 09:58:19] Queued scraper college 3 (A. S. Kharb Memorial College of Education,Jhajjar, Haryana): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 3 "A. S. Kharb Memorial College of Education,Jhajjar, Haryana"
+[2026-05-25 09:58:19] Queued scraper college 3 (A. S. Kharb Memorial College of Education,Jhajjar, Haryana): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 3 "A. S. Kharb Memorial College of Education,Jhajjar, Haryana"
+[2026-05-25 09:58:19] Python scraper college 2: Scraper already running
+[2026-05-25 09:58:19] Queued scraper college 3 (A. S. Kharb Memorial College of Education,Jhajjar, Haryana): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 3 "A. S. Kharb Memorial College of Education,Jhajjar, Haryana"
+[2026-05-25 09:58:20] Python scraper college 3: Scraper already running
+[2026-05-25 09:58:20] Python scraper college 3: Scraper already running
+[2026-05-25 09:58:20] Python scraper college 3: Scraper already running
+[2026-05-25 10:03:46] Queued scraper college 2 (A. S. Kharb Memorial College of Education,Jhajjar, Haryana): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 2 "A. S. Kharb Memorial College of Education,Jhajjar, Haryana"
+[2026-05-25 10:03:46] Queued scraper college 3 (A. S. Kharb Memorial College of Education,Jhajjar, Haryana): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 3 "A. S. Kharb Memorial College of Education,Jhajjar, Haryana"
+[2026-05-25 10:03:46] Queued scraper college 3 (A. S. Kharb Memorial College of Education,Jhajjar, Haryana): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 3 "A. S. Kharb Memorial College of Education,Jhajjar, Haryana"
+[2026-05-25 10:03:46] Queued scraper college 3 (A. S. Kharb Memorial College of Education,Jhajjar, Haryana): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 3 "A. S. Kharb Memorial College of Education,Jhajjar, Haryana"
+[2026-05-25 10:03:46] Queued scraper college 3 (A. S. Kharb Memorial College of Education,Jhajjar, Haryana): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 3 "A. S. Kharb Memorial College of Education,Jhajjar, Haryana"
+[2026-05-25 10:03:46] Queued scraper college 2 (A. S. Kharb Memorial College of Education,Jhajjar, Haryana): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 2 "A. S. Kharb Memorial College of Education,Jhajjar, Haryana"
+[2026-05-25 10:03:47] Queued scraper college 2 (A. S. Kharb Memorial College of Education,Jhajjar, Haryana): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 2 "A. S. Kharb Memorial College of Education,Jhajjar, Haryana"
+[2026-05-25 10:03:47] Python scraper college 3: Scraper already running
+[2026-05-25 10:03:47] Python scraper college 2: Scraper already running
+[2026-05-25 10:03:47] Python scraper college 2: Scraper already running
+[2026-05-25 10:03:47] Python scraper college 3: Scraper already running
+[2026-05-25 10:03:47] Python scraper college 3: Scraper already running
+[2026-05-25 10:03:47] Queued scraper college 3 (A. S. Kharb Memorial College of Education,Jhajjar, Haryana): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 3 "A. S. Kharb Memorial College of Education,Jhajjar, Haryana"
+[2026-05-25 10:03:47] Queued scraper college 3 (A. S. Kharb Memorial College of Education,Jhajjar, Haryana): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 3 "A. S. Kharb Memorial College of Education,Jhajjar, Haryana"
+[2026-05-25 10:03:48] Python scraper college 3: Scraper already running
+[2026-05-25 10:03:48] Python scraper college 3: Scraper already running
+[2026-05-25 10:37:45] Queued scraper college 1 (Bhagwan Parshuram College of Education panipat haryana): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 1 "Bhagwan Parshuram College of Education panipat haryana"
+[2026-05-25 10:38:47] Queued scraper college 1 (Bhagwan Parshuram College of Education panipat haryana): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 1 "Bhagwan Parshuram College of Education panipat haryana"
+[2026-05-25 10:39:45] Python scraper college 1: Data Saved
+[2026-05-25 10:41:21] Queued scraper college 2 (BPR College of Education,Haryana): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 2 "BPR College of Education,Haryana"
+[2026-05-25 10:42:13] Queued scraper college 2 (BPR College of Education,Haryana): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 2 "BPR College of Education,Haryana"
+[2026-05-25 10:42:57] Python scraper college 2: Data Saved
+[2026-05-25 10:51:33] Queued scraper college 3 (Maharshi Valmiki College of Education): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 3 "Maharshi Valmiki College of Education"
+[2026-05-25 11:16:01] Queued scraper college 3 (Maharshi Valmiki College of Education): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 3 "Maharshi Valmiki College of Education"
+[2026-05-25 11:21:41] Python executable not found: python
+[2026-05-25 11:21:41] Python executable not found: python
+[2026-05-25 11:21:41] Python executable not found: python
+[2026-05-25 11:21:41] Python executable not found: python
+[2026-05-25 11:21:41] Python executable not found: python
+[2026-05-25 11:21:41] Python executable not found: python
+[2026-05-25 11:21:41] Python executable not found: python
+[2026-05-25 11:21:41] Python executable not found: python
+[2026-05-25 11:21:41] Python executable not found: python
+[2026-05-25 11:21:41] Python executable not found: python
+[2026-05-25 11:21:41] Python executable not found: python
+[2026-05-25 11:21:41] Python executable not found: python
+[2026-05-25 11:21:41] Python executable not found: python
+[2026-05-25 11:21:41] Python executable not found: python
+[2026-05-25 11:21:41] Python executable not found: python
+[2026-05-25 11:21:41] Python executable not found: python
+[2026-05-25 11:21:41] Python executable not found: python
+[2026-05-25 11:21:44] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:44] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:44] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:44] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:44] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:44] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:44] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:44] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:44] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:44] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:44] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:44] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:44] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:44] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:44] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:44] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:44] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:44] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:44] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:44] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:44] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:44] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:44] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:44] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:44] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:44] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:44] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:44] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:44] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:44] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:45] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:45] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:45] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:45] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:45] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:45] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:45] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:45] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:45] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:45] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:45] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:45] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:45] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:45] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:45] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:45] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:45] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:21:45] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:26:15] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:27:53] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:31:04] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:31:13] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:31:18] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:31:19] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:31:51] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 11:31:51] Python not found. Install Python 3 and add it to PATH, or set app.python_path in config/config.php
+[2026-05-25 12:25:59] Queued scraper college 1 (Management Education & Research Institute (MERI)): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 1 "Management Education & Research Institute (MERI)"
+[2026-05-25 12:27:08] Python scraper college 1: Data Saved
+[2026-05-25 12:29:14] Queued scraper college 2 (Akash College of Education): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 2 "Akash College of Education"
+[2026-05-25 12:29:23] Python scraper college 2: Scraping failed: Official college website not found via Google/Bing. Use format: College Name, City, State
+[2026-05-25 12:29:31] Queued scraper college 2 (Akash College of Education): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 2 "Akash College of Education"
+[2026-05-25 12:29:38] Python scraper college 2: Scraping failed: Official college website not found via Google/Bing. Use format: College Name, City, State
+[2026-05-25 12:29:50] Queued scraper college 2 (Akash College of Education): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 2 "Akash College of Education"
+[2026-05-25 12:29:57] Python scraper college 2: Scraping failed: Official college website not found via Google/Bing. Use format: College Name, City, State
+[2026-05-25 12:41:41] Queued scraper college 2 (Akash College of Education): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 2 "Akash College of Education"
+[2026-05-25 12:45:59] Python scraper college 2: Scraping failed: College data source not found. Try College Name with City, State, or Pincode.
+[2026-05-25 12:46:53] Queued scraper college 2 (Akash College of Education): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 2 "Akash College of Education"
+[2026-05-25 12:47:07] Python scraper college 2: Data Saved
+[2026-05-25 12:51:31] Queued scraper college 3 (Bharati College): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 3 "Bharati College"
+[2026-05-25 12:52:16] Python scraper college 3: Data Saved
+[2026-05-25 12:52:47] Queued scraper college 3 (Bharati College): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 3 "Bharati College"
+[2026-05-25 12:53:27] Python scraper college 3: Data Saved
+[2026-05-25 12:54:32] Queued scraper college 4 (lancers convent school delhi): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 4 "lancers convent school delhi"
+[2026-05-25 12:56:42] Python scraper college 4: Data Saved
+[2026-05-25 13:07:29] Queued scraper college 5 (SRM College of Education): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 5 "SRM College of Education"
+[2026-05-25 13:08:16] Python scraper college 5: Data Saved
+[2026-05-25 13:08:29] Queued scraper college 5 (SRM College of Education): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 5 "SRM College of Education"
+[2026-05-25 13:09:16] Python scraper college 5: Data Saved
+[2026-05-25 13:47:56] Queued scraper college 6 (Indraprastha College For Women): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 6 "Indraprastha College For Women"
+[2026-05-25 13:51:30] Python scraper college 6: Scraping failed: Official college website not found via Google/Bing. Use format: College Name, City, State
+[2026-05-25 13:51:49] Queued scraper college 6 (Indraprastha College For Women): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 6 "Indraprastha College For Women"
+[2026-05-25 13:58:18] Queued scraper college 6 (Indraprastha College For Women): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 6 "Indraprastha College For Women"
+[2026-05-25 13:59:54] Python scraper college 6: Scraping failed: Official college website not found via Google/Bing. Use format: College Name, City, State
+[2026-05-25 14:01:00] Queued scraper college 6 (Indraprastha College For Women): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 6 "Indraprastha College For Women"
+[2026-05-25 14:02:52] Queued scraper college 6 (Indraprastha College For Women): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 6 "Indraprastha College For Women"
+[2026-05-25 14:02:52] Python scraper college 6: Scraper already running
+[2026-05-25 14:03:32] Queued scraper college 7 (Geeta College of Education): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 7 "Geeta College of Education"
+[2026-05-25 14:03:38] Python scraper college 7: Scraping failed: Official college website not found via Google/Bing. Use format: College Name, City, State
+[2026-05-25 14:05:30] Queued scraper college 7 (Geeta College of Education): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 7 "Geeta College of Education"
+[2026-05-25 14:05:30] Queued scraper college 7 (Geeta College of Education): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 7 "Geeta College of Education"
+[2026-05-25 14:05:31] Queued scraper college 7 (Geeta College of Education): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 7 "Geeta College of Education"
+[2026-05-25 14:05:31] Python scraper college 7: Scraper already running
+[2026-05-25 14:05:31] Python scraper college 7: Scraper already running
+[2026-05-25 14:05:34] Python scraper college 7: Scraping failed: Official college website not found via Google/Bing. Use format: College Name, City, State
+[2026-05-25 14:06:08] Queued scraper college 8 (Jamia Millia Islamia): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 8 "Jamia Millia Islamia"
+[2026-05-25 14:08:16] Python scraper college 6: C:\xampp\htdocs\web-scraper\scraper\python_packages\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'ipcw.org'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-25 14:08:16] Python scraper college 6:   warnings.warn(
+[2026-05-25 14:08:16] Python scraper college 6: Data Saved
+[2026-05-25 14:11:25] Queued scraper college 6 (Indraprastha College For Women): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 6 "Indraprastha College For Women"
+[2026-05-25 14:11:29] Python scraper college 6: Data Saved
+[2026-05-25 14:12:35] Queued scraper college 6 (Indraprastha College For Women): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 6 "Indraprastha College For Women"
+[2026-05-25 14:12:38] Python scraper college 6: Data Saved
+[2026-05-25 14:13:56] Queued scraper college 9 (Geeta College of Education): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 9 "Geeta College of Education"
+[2026-05-25 14:14:00] Python scraper college 9: Scraping failed: Official college website not found via Google/Bing. Use format: College Name, City, State
+[2026-05-26 11:54:30] Queued scraper college 11 (Management Education & Research Institute (MERI)): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 11 "Management Education & Research Institute (MERI)"
+[2026-05-26 11:54:46] Python scraper college 11: Data Saved
+[2026-05-26 12:18:36] Queued scraper college 7 (Geeta College of Education): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 7 "Geeta College of Education"
+[2026-05-26 12:18:47] Python scraper college 7: Data Saved
+[2026-05-26 12:18:47] Queued scraper college 8 (Jamia Millia Islamia): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 8 "Jamia Millia Islamia"
+[2026-05-26 12:18:53] Python scraper college 8: Data Saved
+[2026-05-26 12:24:43] Queued scraper college 10 (SRM college of education): "C:\Users\sachi\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe" "C:\xampp\htdocs\web-scraper\scraper\scraper.py" 10 "SRM college of education"
+[2026-05-26 12:25:49] Python scraper college 10: C:\xampp\htdocs\web-scraper\scraper\python_packages\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'srm.edu.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-26 12:25:49] Python scraper college 10:   warnings.warn(
+[2026-05-26 12:25:49] Python scraper college 10: C:\xampp\htdocs\web-scraper\scraper\python_packages\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.srmist.edu.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-26 12:25:49] Python scraper college 10:   warnings.warn(
+[2026-05-26 12:25:49] Python scraper college 10: C:\xampp\htdocs\web-scraper\scraper\python_packages\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'srm.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-26 12:25:49] Python scraper college 10:   warnings.warn(
+[2026-05-26 12:25:49] Python scraper college 10: C:\xampp\htdocs\web-scraper\scraper\python_packages\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.srm.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-26 12:25:49] Python scraper college 10:   warnings.warn(
+[2026-05-26 12:25:49] Python scraper college 10: C:\xampp\htdocs\web-scraper\scraper\python_packages\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'sce.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-26 12:25:49] Python scraper college 10:   warnings.warn(
+[2026-05-26 12:25:49] Python scraper college 10: C:\xampp\htdocs\web-scraper\scraper\python_packages\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.hitmedia.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-26 12:25:49] Python scraper college 10:   warnings.warn(
+[2026-05-26 12:25:49] Python scraper college 10: C:\xampp\htdocs\web-scraper\scraper\python_packages\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'srm.edu.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-26 12:25:49] Python scraper college 10:   warnings.warn(
+[2026-05-26 12:25:49] Python scraper college 10: C:\xampp\htdocs\web-scraper\scraper\python_packages\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.srmist.edu.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-26 12:25:49] Python scraper college 10:   warnings.warn(
+[2026-05-26 12:25:49] Python scraper college 10: C:\xampp\htdocs\web-scraper\scraper\python_packages\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'srm.edu.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-26 12:25:49] Python scraper college 10:   warnings.warn(
+[2026-05-26 12:25:49] Python scraper college 10: C:\xampp\htdocs\web-scraper\scraper\python_packages\urllib3\connectionpool.py:1110: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.srmist.edu.in'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+[2026-05-26 12:25:49] Python scraper college 10:   warnings.warn(
+[2026-05-26 12:25:49] Python scraper college 10: Scraping failed: Official college website not found via Google/Bing. Use format: College Name, City, State

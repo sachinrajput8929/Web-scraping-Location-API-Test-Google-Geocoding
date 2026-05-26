@@ -1,0 +1,14 @@
+{
+  "db": {
+    "host": "localhost",
+    "user": "root",
+    "password": "",
+    "database": "top_college",
+    "charset": "utf8mb4"
+  },
+  "apis": {
+    "google_geocoding_key": "",
+    "serpapi_key": "",
+    "enable_slow_search": false
+  }
+}
